@@ -1,8 +1,6 @@
 # MachineLearning
 This repo is a collection of Machine Learning Projects. 
 
-One liner descriptions of each project:
-
 ML for Small Business - Proof of Concept
   - Addresses myth that small to medium sized businesses can't utilize machine learning 
   - Demonstrates quality of SVM methods on classifying MNIST dataset - Avg 90% accuracy and >75% Precision and Recall
