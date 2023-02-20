@@ -9,4 +9,6 @@ Spam Classification with KNN, Random Forest, and Logistic Regression
   - Applies machine learning methods to spam assassin dataset 
   - Achieves 97% accuracy, 95% precision, 88% recall 
   
-
+Moon Dataset with Decision Trees
+  - Outlines and applies a process for determining hyperparameter tuning for decision trees
+ 
